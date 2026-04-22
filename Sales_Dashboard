@@ -1,0 +1,44 @@
+
+This is a Sales Dashboard for 2025 that combines several different views to give a "big picture" look at how a business is performing.
+
+Think of this as a health report for a company. Here is the simple breakdown:
+
+1. The "Big Three" Numbers (Top Row)
+At a glance, you can see how much the business has grown compared to the Previous Year (PY):
+
+Total Sales ($733K): This is the total money taken in. It is up by 20.4%.
+
+Total Profit ($93K): This is the money kept after costs. It is up by 14.2%.
+
+Total Quantity ($12K): This is the number of individual items sold. It is up by 26.8%.
+
+The Takeaway: The business is growing significantly in every major category.
+
+2. Performance Over Time (The Sparklines)
+Next to each big number is a small line graph showing the trend from January to December.
+
+Black Line: Current Year (2025).
+
+Grey Line: Previous Year.
+
+The Blue dots show the highest points of the year, while the Orange dots show the lowest points.
+
+3. What’s Selling? (Bottom Left)
+This section lists product categories like Phones, Chairs, and Tables.
+
+The Left Bars: Compare sales volume. You can see Phones and Chairs are the top sellers.
+
+The Right Bars (Blue & Orange): Show profit.
+
+Blue means they made money (like Copiers).
+
+Orange means they actually lost money selling that item (like Tables and Machines).
+
+4. Weekly Ups and Downs (Bottom Right)
+This chart tracks performance week-by-week.
+
+Blue sections: Weeks where sales or profit were above average.
+
+Orange sections: Weeks where they were below average.
+
+You can see a lot of "Blue" toward the end of the year, meaning the business finished 2025 very strongly.
