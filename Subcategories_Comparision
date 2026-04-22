@@ -1,0 +1,31 @@
+This page is a business dashboard (specifically from a tool called Tableau) that compares sales and profit performance across different product subcategories. It focuses on comparing the "Current Year" (CY) against the "Previous Year" (PY).
+
+Here is a simple breakdown of what you are seeing:
+
+1. The Sales Comparison (Left Side)
+The bars on the left show the volume of sales for items like Phones, Chairs, and Paper.
+
+Black Bars: Represent sales for the Current Year.
+
+Grey Bars: Represent sales for the Previous Year.
+
+Insight: If the black bar is longer than the grey bar (like in Phones), sales have grown. If the grey bar is longer (like in Tables or Machines), sales have dropped compared to last year.
+
+2. The Profit Comparison (Right Side)
+The colored bars on the right show whether those sales actually made money.
+
+Blue Bars: Indicate a Profit. The longer the bar, the more money was made (e.g., Copiers and Phones are high-profit).
+
+Orange Bars: Indicate a Loss. These categories are losing money even if they have high sales (e.g., Tables and Machines).
+
+3. Key Observations
+Top Performer: Phones have the highest sales and are very profitable.
+
+The "Problem" Areas: Tables and Machines have high sales (long bars on the left) but are losing a significant amount of money (orange bars on the right).
+
+Smallest Categories: Items like Fasteners and Labels have very low sales and profit compared to everything else.
+
+4. Interactive Controls
+Select Year: On the far right, there is a dropdown menu currently set to 2023. Changing this would update all the data on the screen for a different year.
+
+Filter/Sort: The subcategories are currently sorted by their sales volume, from highest to lowest.
